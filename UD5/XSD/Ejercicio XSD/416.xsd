@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Definición del tipo de datos para el dominio de segundo nivel -->
+  <xs:simpleType name="segundoNivel">
+    <xs:restriction base="xs:string">
+      <xs:minLength value="2"/>
+      <xs:maxLength value="63"/>
+      <xs:pattern value="[a-z0-9]+(-[a-z0-9]+)*"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- Definición del tipo de datos para el dominio de primer nivel -->
+  <xs:simpleType name="primerNivel">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="[a-z]{2,3}"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- Definición del elemento dominio -->
+  <xs:element name="dominio">
+    <xs:simpleType>
+      <xs:restriction base="xs:string">
+        <!-- Combinación del dominio de segundo nivel y primer nivel -->
+        <xs:pattern value="[a-z0-9]+(-[a-z0-9]+)*\.[a-z]{2,3}"/>
+      </xs:restriction>
+    </xs:simpleType>
+  </xs:element>
+
+</xs:schema>
