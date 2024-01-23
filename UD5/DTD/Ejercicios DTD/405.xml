@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paneles [
+<!ELEMENT paneles (evento+)>
+<!ELEMENT evento (via, pk, retencion, sentido, carrilescortados?)>
+<!ATTLIST evento
+  tipo CDATA #REQUIRED
+  fecha CDATA #IMPLIED
+>
+<!ELEMENT via (nombre, ref, origen, destino, doble?, sentido?, carriles)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT ref (#PCDATA)>
+<!ELEMENT origen (#PCDATA)>
+<!ELEMENT destino (#PCDATA)>
+<!ELEMENT doble EMPTY>
+<!ELEMENT sentido (#PCDATA)>
+<!ELEMENT carriles (#PCDATA)>
+<!ELEMENT pk (#PCDATA)>
+<!ELEMENT retencion EMPTY>
+<!ATTLIST retencion
+  long CDATA #IMPLIED
+>
+<!ELEMENT sentido (#PCDATA)>
+<!ELEMENT carrilescortados EMPTY>
+<!ATTLIST carrilescortados
+  valor (1|2|3|4) #REQUIRED
+>
+]>
+<paneles>
+  <evento tipo="accidente" fecha="2024-01-10T10:46:01Z">
+    <via>
+      <nombre>Autopista del Sur</nombre>
+      <ref>A-4</ref>
+      <origen>Madrid</origen>
+      <destino>Cádiz</destino>
+      <doble/>
+      <sentido>sur</sentido>
+      <carriles>2</carriles>
+    </via>
+    <pk>123</pk>
+    <retencion long="3km"/>
+    <sentido>sur</sentido>
+    <carrilescortados valor="2"/>
+  </evento>
+</paneles>

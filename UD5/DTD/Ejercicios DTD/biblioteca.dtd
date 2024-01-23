@@ -1,0 +1,8 @@
+<!ELEMENT biblioteca (libro+)>
+<!ELEMENT libro (autor, titulo)>
+<!ATTLIST libro
+  codigo CDATA #REQUIRED
+  ubicacion CDATA #IMPLIED
+>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT titulo (#PCDATA)>
