@@ -1,0 +1,37 @@
+1.
+//nome/text()
+
+2. 
+/cine/peliculas/pelicula/titulo
+
+3. 
+//persoa[@sexo="home"]
+
+4. 
+//persoa[nome='Janet Leigh']/datas/@nacemento
+
+5.
+//director
+
+6.
+//persoa[not(datas/@fallecemento)]
+
+7.
+//pelicula[contains(titulo, 'en')]/titulo
+
+8.
+//pelicula/director[.=../actor]
+
+9.
+//pelicula[data>1955 and data<1965]/titulo
+
+10.
+//pelicula[actor='Janet Leigh']/titulo
+
+11.
+//pelicula[count(actor) > 1]/titulo
+
+12.
+//actor[starts-with(., 'J')]/text()
+
+	
