@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Ejercicio de selectores</title>
+    <link rel="stylesheet" href="estilos.css" />
+  </head>
+  <style>
+    
+    a{
+      color: white;
+      text-decoration: none;
+    }
+    ul {
+      list-style: none;
+    }
+
+    li{
+      display: block;
+      padding: 2px 5px;
+      margin: 5px;
+      text-align: center;
+      background-color:blue;
+    }
+
+    li:hover {
+      border: 4px solid red;
+      text-align: center;
+    }
+    li:focus {
+      outline: none;
+      border: 4px solid red;
+    }
+ 
+    span {
+      display: inline-block;
+    }
+
+  </style>
+  <body>
+    <ul>
+      <span><li><a href="presentacion.html">Presentación</a></li>
+      <li><a href="estudios.html">Estudios</a></li>
+      <li><a href="alumnos.html">Alumnos</a></li>
+      <li><a href="deportes.html">Deportes</a></li>
+      <li><a href="servicios.html">Servicios</a></li></span>
+    </ul>
+  </body>
+</html>
