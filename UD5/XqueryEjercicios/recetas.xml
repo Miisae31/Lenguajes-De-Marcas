@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recetas>
+  <receta>
+    <titulo>Ternera a la parmesana con pasta cabello de ángel con ajo</titulo>
+    <ingrediente nombre="filete de ternera en cubos" cantidad="1,5" unidad="libra"/>
+    <ingrediente nombre="cebolla, cortada en aros finos" cantidad="1"/>
+    <ingrediente nombre="pimiento morrón verde, cortado en aros" cantidad="1"/>
+    <ingrediente nombre="pan rallado italiano" cantidad="1" unidad="taza"/>
+    <ingrediente nombre="queso parmesano rallado" cantidad="0.5" unidad="taza"/>
+    <ingrediente nombre="aceite de oliva" cantidad="2" unidad="cucharada"/>
+    <ingrediente nombre="salsa de espagueti" cantidad="1" unidad="frasco"/>
+    <ingrediente nombre="queso mozzarella rallado" cantidad="0.5" unidad="taza"/>
+    <ingrediente nombre="pasta cabello de ángel" cantidad="12" unidad="onza"/>
+    <ingrediente nombre="ajo picado" cantidad="2" unidad="cucharadita"/>
+    <ingrediente nombre="mantequilla" cantidad="0.25" unidad="taza"/>
+    <preparación>
+      <paso>Precaliente el horno a 350 grados F (175 grados C).</paso>
+      <paso>Corte el bistec en cubos en trozos del tamaño de una porción. Cubra la carne con las migas de pan y el queso parmesano. Caliente el aceite de oliva en una sartén grande y saltee 1 cucharadita de ajo durante 3 minutos. Freír rápidamente (dorar rápidamente por ambos lados) la carne. Coloque la carne en una cacerola para hornear, superponiendo ligeramente los bordes. Coloque los aros de cebolla y los pimientos encima de la carne y vierta la salsa marinara sobre todo.</paso>
+      <paso>Hornee a 350 grados F (175 grados C) durante 30 a 45 minutos, dependiendo del grosor de la carne. Espolvorea mozzarella sobre la carne y deja en el horno hasta que burbujee.</paso>
+      <paso>Hervir la pasta al dente. Escurra y mezcle la mantequilla y 1 cucharadita de ajo. Para un sabor a ajo más fuerte, sazone con ajo en polvo. Cubra con parmesano rallado y perejil para darle color. ¡Sirva la carne y la salsa encima de una montaña de pasta!</paso>
+    </preparación>
+    <comentario> Prepare la carne con anticipación y refrigere durante la noche, el ácido en la salsa de tomate ablandará la carne aún más. Si haces esto, guarda la mozzarella para el último minuto. </comentario>
+    <nutricion caloria="1167" grasa="23" carbohidratos="45" proteína="32"/>
+  </receta>
+  <receta>
+    <titulo>Pastel de ricota</titulo>
+    <ingrediente nombre="relleno">
+      <ingrediente nombre="queso ricotta" cantidad="3" unidad="libra"/>
+      <ingrediente nombre="huevos" cantidad="12"/>
+      <ingrediente nombre="azúcar blanca" cantidad="2" unidad="taza"/>
+      <ingrediente nombre="extracto de vainilla" cantidad="2" unidad="cucharadita"/>
+      <ingrediente nombre="chispas de chocolate semidulce" cantidad="0.25" unidad="taza"/>
+      <preparación>
+        <paso>Bate los 12 huevos, 2 tazas de azúcar y el extracto de vainilla juntos. Agregue el queso ricotta y las chispas de chocolate. Dejar de lado.</paso>
+      </preparación>
+    </ingrediente>
+    <ingrediente nombre="masa">
+      <ingrediente nombre="harina" cantidad="4" unidad="taza"/>
+      <ingrediente nombre="polvo de hornear" cantidad="5" unidad="cucharadita"/>
+      <ingrediente nombre="azúcar blanca" cantidad="1" unidad="taza"/>
+      <ingrediente nombre="manteca vegetal" cantidad="0.5" unidad="taza"/>
+      <ingrediente nombre="huevos, ligeramente batidos" cantidad="4"/>
+      <ingrediente nombre="extracto de vainilla" cantidad="1" unidad="cucharadita"/>
+      <preparación>
+        <paso>Combine la harina, el polvo de hornear y 1 taza de azúcar. Corte la manteca y mezcle hasta que la mezcla parezca migas gruesas. Mezcle 4 de los huevos y 1 cucharadita de vainilla. Divida la masa en 4 bolas y enfríe (si es necesario).</paso>
+      </preparación>
+    </ingrediente>
+    <ingrediente nombre="leche" cantidad="*"/>
+    <preparación>
+      <paso>Precaliente el horno a 325 grados F (165 grados C). Engrasar dos platos hondos para pastel.</paso>
+      <paso>Extienda 2 de las bolas para que encajen en los moldes para pastel. No haga la corteza demasiado gruesa, ya que se expandirá durante la cocción y se volverá demasiado gruesa. No acanalar los bordes de la masa. Extienda las otras 2 bolas de masa y córtelas en 8 tiras estrechas para la parte superior de la masa. Alternativamente, puede usar cortadores de galletas y colocar los recortes en la parte superior de los pasteles.</paso>
+      <paso>Vierta el relleno uniformemente en las masas de pastel. Cubra cada pastel con 8 tiras angostas de masa o recortes de galletas. Cepille la parte superior del pastel con leche para que brille. Coloque papel aluminio en el borde de la corteza.</paso>
+      <paso>Hornee a 325 grados F (165 grados C) durante 20 a 30 minutos y luego retire el papel aluminio. Continúe horneando por otros 25 o 30 minutos o hasta que un cuchillo insertado en el centro salga limpio.</paso>
+    </preparación>
+    <nutricion caloria="349" grasa="18" carbohidratos="64" proteína="18"/>
+  </receta>
+  <receta>
+    <titulo>Linguine alla Pescatora</titulo>
+    <ingrediente nombre="pasta linguini" cantidad="16" unidad="onza"/>
+    <ingrediente nombre="salsa">
+      <ingrediente nombre="aceite de oliva" cantidad="2" unidad="cucharada"/>
+      <ingrediente nombre="dientes de ajo picados" cantidad="2"/>
+      <ingrediente nombre="condimento italiano" cantidad="0.5" unidad="cucharadita"/>
+      <ingrediente nombre="tomillo seco" cantidad="0.25" unidad="cucharadita"/>
+      <ingrediente nombre="hojuelas de pimiento rojo triturado" cantidad="0.25" unit="cucharadita"/>
+      <ingrediente nombre="tomates triturados" cantidad="1" unidad="lata"/>
+      <ingrediente nombre="aceitunas negras, escurridas" cantidad="6" unidad="onza"/>
+      <ingrediente nombre="almejas enteras" cantidad="10" unidad="onza"/>
+      <ingrediente nombre="almejas picadas, con jugo" cantidad="6.5" unidad="onza"/>
+      <ingrediente nombre="pequeña ensalada de camarones" cantidad="0.25" unidad="libra"/>
+      <ingrediente nombre="vieiras" cantidad="0.25" unidad="libra"/>
+      <ingrediente nombre="ralladura de limón" cantidad="2.5" unidad="cucharadita"/>
+      <ingrediente nombre="sal" cantidad="*"/>
+      <ingrediente nombre="pimienta negra molida" cantidad="*"/>
+      <preparación>
+        <paso>En una cacerola pesada a fuego medio saltee el ajo en aceite de oliva hasta que el ajo se ablande.</paso>
+        <paso>Agregue el condimento italiano, el tomillo, las hojuelas de pimiento rojo triturado, los tomates triturados, las aceitunas negras y el jugo de ambas latas de almejas. Cocine a fuego lento durante 15 minutos.</paso>
+        <paso>Mezcle las almejas enlatadas, los camarones, las vieiras, la ralladura de limón y sal y pimienta al gusto.</paso>
+        <paso>Cocine a fuego lento durante 15 minutos más o hasta que los camarones y las almejas estén cocidos.</paso>
+      </preparación>
+    </ingrediente>
+    <preparación>
+      <paso>En una olla grande con agua hirviendo con sal, cocine los linguini hasta que estén al dente. Drenar.</paso>
+      <paso>Mezcle la pasta linguini cocida y escurrida sobre la salsa de mariscos. Servir tibio.</paso>
+    </preparación>
+    <nutricion caloria="532" grasa="12" carbohidratos="59" proteína="29"/>
+  </receta>
+  <receta>
+    <titulo>Zuppa Inglés</titulo>
+    <ingrediente nombre="yemas de huevo" cantidad="4"/>
+    <ingrediente nombre="leche" cantidad="2.5" unidad="taza"/>
+    <ingrediente nombre="Galletas Savoiardi" cantidad="21"/>
+    <ingrediente nombre="cantidad de azúcar" cantidad="0.75" unidad="taza"/>
+    <ingrediente nombre="Alchermes licor" cantidad="1" unidad="taza"/>
+    <ingrediente nombre="ralladura de limón" cantidad="*"/>
+    <ingrediente nombre="harina" cantidad="0.5" unidad="taza"/>
+    <ingrediente nombre="crema batida fresca" cantidad="*"/>
+    <preparación>
+      <paso>Caliente la leche en una cacerola antiadherente</paso>
+      <paso>En un tazón grande bata las yemas de huevo con el azúcar, agregue la harina y combine los ingredientes hasta que estén bien mezclados.</paso>
+      <paso>Agregue la leche, un poco a la vez a la mezcla de huevo, mezclando bien.</paso>
+      <paso>Ponga la mezcla en la cacerola y cocínela en la estufa a fuego medio-bajo. Mezclar la nata continuamente con una cuchara de madera. Cuando empiece a espesar, retíralo del fuego y viértelo en un plato grande para que se enfríe.</paso>
+      <paso>Revuelva la crema de vez en cuando para que la parte superior no se endurezca.</paso>
+      <paso>Sumerja rápidamente ambos lados de los dedos de dama en el licor. Póngalos en capas uno a la vez en un recipiente de vidrio lo suficientemente grande como para contener 7 galletas.</paso>
+      <paso>Extienda 1/3 de la crema y repita la capa con los dedos de las manos. Terminar con la crema.</paso>
+    </preparación>
+    <comentario> Refrigere durante al menos 4 horas, mejor aún durante la noche. Antes de servir decora la zuppa inglese con nata montada. </comentario>
+    <nutricion caloria="612" grasas="49" carbohidratos="45" proteínas="4" alcohol="2"/>
+  </receta>
+  <receta>
+    <titulo>Cailles en sarcófagos</titulo>
+    <ingrediente nombre="pastel">
+      <ingrediente nombre="mantequilla refrigerada sin sal" cantidad="15" unidad="onza"/>
+      <ingrediente nombre="harina" cantidad="3" unidad="taza"/>
+      <ingrediente nombre="sal" cantidad="1.5" unidad="cucharadita"/>
+      <ingrediente nombre="agua helada" cantidad="0.75" unidad="taza"/>
+      <preparación>
+        <paso>En un tazón grande, corte 6 cucharadas de mantequilla en la harina con una batidora de repostería hasta que la mantequilla esté más o menos incorporada. Ahora corte en trozos grandes la mantequilla restante en la mezcla de harina, dejando muchos trozos visibles de mantequilla (alrededor de 1/4 de pulgada de diámetro debería estar bien).</paso>
+        <paso>Disuelva la sal en el agua helada. Rocíe lentamente el agua con sal en la mezcla de harina mientras revuelve suavemente con un tenedor. Cuando toda el agua se haya distribuido uniformemente, quedarán muchas migajas secas. No te preocupes.</paso>
+        <paso>Vacíe la masa en un pedazo grande de envoltura de plástico. Doblando los cuatro lados de la envoltura y presionando, forme un rectángulo de masa. Estirar un poco la masa y doblar los lados por la mitad, formando un trozo de un tercio del tamaño anterior. Repite, esta vez doblando la parte superior e inferior hacia el medio. La mantequilla y la harina aún no funcionarán en armonía, por lo que probablemente tendrás que usar la envoltura de plástico para ayudarte con los primeros pliegues.</paso>
+        <paso>El hojaldre requiere una sumisión algo calvinista de la voluntad y la confianza de que aparecerán capas. Vuelva a estirar la masa y repita el plegado, espolvoreando ligeramente con harina entre cada capa. Deseche la envoltura de plástico tan pronto como la masa se mantenga unida por sí sola.</paso>
+        <paso>La masa se volverá progresivamente más suave a medida que trabaje en ella, con una textura casi elástica. Después de 6 o 10 repeticiones de doblar y enrollar, corta la masa en 18 partes iguales. Envuelva cada pocillo en film transparente y déjelo reposar en el frigorífico durante al menos 2 horas.</paso>
+      </preparación>
+    </ingrediente>
+    <ingrediente nombre="relleno">
+      <ingrediente nombre="pollos pequeños, cortados" cantidad="3"/>
+      <ingrediente nombre="Hierbas de Provenza" cantidad="*"/>
+      <ingrediente nombre="vino blanco seco" cantidad="1.5" unidad="taza"/>
+      <ingrediente nombre="jugo de naranja" cantidad="0.5" unidad="taza"/>
+      <ingrediente nombre="ajo picado" cantidad="4" unidad="cucharadita"/>
+      <ingrediente nombre="aceite de trufa" cantidad="*"/>
+      <preparación>
+        <paso>Coloque las piernas y los muslos de pollo en una fuente para hornear, las pechugas de pollo en otra. Frote herbes de Provence debajo de la piel de estas partes de pollo.</paso>
+        <paso>Combine el vino con el jugo de naranja, el ajo y un poco de aceite de trufa. Picar la mitad de la cebolla y agregarla.</paso>
+        <paso>Vierta sobre las piezas de pollo, cubra y refrigere durante la noche.</paso>
+      </preparación>
+    </ingrediente>
+    <ingrediente nombre="stock">
+      <ingrediente nombre="alitas de pollo, menudencias y riñón" cantidad="*"/>
+      <ingrediente nombre="cebollas, peladas" cantidad="1.5"/>
+      <ingrediente nombre="zanahorias, peladas y cortadas a lo largo" cantidad="5"/>
+      <ingrediente nombre="apio, cortado a lo largo" cantidad="2" unidad="costillas"/>
+      <ingrediente nombre="hoja de laurel" cantidad="1"/>
+      <ingrediente nombre="pequeño manojo de perejil" cantidad="1"/>
+      <ingrediente nombre="granos de pimienta enteros" cantidad="0.5" unidad="cucharadita"/>
+      <ingrediente nombre="sal" cantidad="*"/>
+      <preparación>
+        <paso>Coloque las piezas de pollo en una olla grande, cubra con agua fría y hierva. Retirar la espuma que sube hasta arriba.</paso>
+        <paso>Cuando el líquido esté relativamente claro, agregue las zanahorias, el apio, la cebolla entera, la hoja de laurel, el perejil, los granos de pimienta y la sal. Reduzca el fuego, cubra y deje hervir a fuego lento durante al menos 2 horas para hacer un caldo sustancioso.</paso>
+        <paso>Cuele, deseche los sólidos y refrigere el caldo.</paso>
+      </preparación>
+    </ingrediente>
+    <preparación>
+      <paso>Precaliente el horno a 350 grados. Retire la grasa del caldo y vierta suficiente sobre el pollo marinado para cubrir. Hornee el pollo hasta que esté tierno y los jugos salgan claros, aproximadamente 25 minutos para las pechugas, un poco más para las piernas y los muslos.</paso>
+      <paso>Reserve los jugos de uno de los platos para hornear, quitando la grasa de la parte superior. Pelar, deshuesar y enfriar el pollo.</paso>
+    </preparación>
+    <nutricion caloria="1892" grasa="33" carbohidratos="28" proteína="39"/>
+  </receta>
+</recetas>
