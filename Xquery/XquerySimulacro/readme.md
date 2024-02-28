@@ -1,1 +1,0 @@
-# Simulacro Xquery
