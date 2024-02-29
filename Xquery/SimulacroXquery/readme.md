@@ -63,3 +63,26 @@ return doc("impresoras.xml")/impresoras/impresora[peso = $a]
 Forma simplificada:
 
 doc("impresoras.xml")/impresoras/impresora[peso = max(/impresoras/impresora/peso)]
+
+
+Ejercicio extra
+EXTRA. Una pregunta del examen será pasar el XML a formato HTML. Por ejemplo, ¿sabrías crear una tabla (o lista) con el número de serie, marca y modelo de las impresoras? 
+
+<html>
+<head>
+  <title>Lista de Impresoras</title>
+</head>
+<body>
+  <ul>
+  {
+    for $impresora in doc("impresoras.xml")//impresora
+    return
+    <li>
+      <strong>Número de Serie:</strong> {$impresora/@numSerie}<br/>
+      <strong>Marca:</strong> {$impresora/marca}<br/>
+      <strong>Modelo:</strong> {$impresora/modelo}<br/>
+    </li>
+  }
+  </ul>
+</body>
+</html>
