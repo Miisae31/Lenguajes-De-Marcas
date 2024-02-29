@@ -67,7 +67,7 @@ doc("impresoras.xml")/impresoras/impresora[peso = max(/impresoras/impresora/peso
 
 Ejercicio extra
 EXTRA. Una pregunta del examen será pasar el XML a formato HTML. Por ejemplo, ¿sabrías crear una tabla (o lista) con el número de serie, marca y modelo de las impresoras? 
-
+Pare crear una lista:
 <html>
 <head>
   <title>Lista de Impresoras</title>
@@ -84,5 +84,31 @@ EXTRA. Una pregunta del examen será pasar el XML a formato HTML. Por ejemplo, �
     </li>
   }
   </ul>
+</body>
+</html>
+
+Para crear una tabla:
+<html>
+<head>
+  <title>Impresoras</title>
+</head>
+<body>
+  <h1>Lista de Impresoras</h1>
+  <table border="1">
+    <tr>
+      <th>Número de Serie</th>
+      <th>Marca</th>
+      <th>Modelo</th>
+    </tr>
+    {
+      for $impresora in doc("impresoras.xml")//impresora
+      return
+        <tr>
+          <td>{$impresora/@numSerie}</td>
+          <td>{$impresora/marca}</td>
+          <td>{$impresora/modelo}</td>
+        </tr>
+    }
+  </table>
 </body>
 </html>
