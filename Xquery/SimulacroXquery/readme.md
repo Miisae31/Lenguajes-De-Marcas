@@ -104,7 +104,7 @@ Para crear una tabla:
       for $impresora in doc("impresoras.xml")//impresora
       return
         <tr>
-          <td>{$impresora/@numSerie}</td>
+          <td>{string($impresora/@numSerie)}</td>
           <td>{$impresora/marca}</td>
           <td>{$impresora/modelo}</td>
         </tr>
@@ -112,3 +112,5 @@ Para crear una tabla:
   </table>
 </body>
 </html>
+
+
