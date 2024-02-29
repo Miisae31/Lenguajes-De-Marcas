@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<impresoras>
+  <impresora numSerie="i245" tipo="láser" compra="2010">
+    <marca>Epson</marca>
+    <modelo>EPL300</modelo>
+    <peso>4.52</peso>
+    <tamano>A4</tamano>
+    <tamano>A5</tamano>
+    <cartucho>C-123BV</cartucho>
+    <enred/>
+  </impresora>
+  <impresora numSerie="i246" tipo="matricial">
+    <marca>HP</marca>
+    <modelo>LaserJet 2410</modelo>
+    <peso>3.2</peso>
+    <tamano>A4</tamano>
+    <cartucho>C-456P</cartucho>
+  </impresora>
+  <impresora numSerie="i247" tipo="matricial">
+    <marca>HP</marca>
+    <modelo>LaserJet 2420</modelo>
+    <peso>3.2</peso>
+    <tamano>A4</tamano>
+    <tamano>A3</tamano>
+    <cartucho>C-456P</cartucho>
+  </impresora>
+  <impresora numSerie="i248" tipo="matricial">
+    <marca>HP</marca>
+    <modelo>LaserJet 2430</modelo>
+    <peso>3.2</peso>
+    <tamano>A3</tamano>
+    <cartucho>C-456P</cartucho>
+  </impresora>
+  <impresora numSerie="i249" tipo="láser" compra="2011">
+    <marca>Canon</marca>
+    <modelo>LBP6030w</modelo>
+    <peso>5.0</peso>
+    <tamano>A4</tamano>
+    <cartucho>137</cartucho>
+    <enred/>
+  </impresora>
+  <impresora numSerie="i250" tipo="tinta" compra="2013">
+    <marca>Brother</marca>
+    <modelo>DCP-J152W</modelo>
+    <peso>7.1</peso>
+    <tamano>A4</tamano>
+    <cartucho>C-555BK</cartucho>
+    <cartucho>C-555C</cartucho>
+    <cartucho>C-555M</cartucho>
+    <cartucho>C-555Y</cartucho>
+  </impresora>
+  <impresora numSerie="i250" tipo="láser" compra="2012">
+    <marca>Brother</marca>
+    <modelo>HL-L2320D</modelo>
+    <peso>6.8</peso>
+    <tamano>A4</tamano>
+    <cartucho>TN660</cartucho>
+  </impresora>
+  <impresora numSerie="i251" tipo="tinta" compra="2013">
+    <marca>HP</marca>
+    <modelo>OfficeJet 5255</modelo>
+    <peso>6.5</peso>
+    <tamano>A4</tamano>
+    <cartucho>63</cartucho>
+    <enred/>
+  </impresora>
+  <impresora numSerie="i252" tipo="láser" compra="2014">
+    <marca>Lexmark</marca>
+    <modelo>MC3224dwe</modelo>
+    <peso>18.9</peso>
+    <tamano>A4</tamano>
+    <tamano>A5</tamano>
+    <cartucho>78C1HK0</cartucho>
+  </impresora>
+  <impresora numSerie="i251" tipo="láser" compra="2014">
+    <marca>Lexmark</marca>
+    <modelo>CS410dn</modelo>
+    <peso>22.1</peso>
+    <tamano>A4</tamano>
+    <tamano>A3</tamano>
+    <cartucho>C-111BK</cartucho>
+    <cartucho>C-111C</cartucho>
+    <cartucho>C-111M</cartucho>
+    <cartucho>C-111Y</cartucho>
+  </impresora>
+  <impresora numSerie="i253" tipo="tinta" compra="2015">
+    <marca>Epson</marca>
+    <modelo>Workforce Pro WF-3720</modelo>
+    <peso>9.1</peso>
+    <tamano>A4</tamano>
+    <tamano>A6</tamano>
+    <cartucho>702</cartucho>
+  </impresora>
+  <impresora numSerie="i254" tipo="láser" compra="2016">
+    <marca>Dell</marca>
+    <modelo>E310dw</modelo>
+    <peso>4.6</peso>
+    <tamano>A4</tamano>
+    <cartucho>593-BBKD</cartucho>
+  </impresora>
+  <impresora numSerie="i255" tipo="matricial" compra="2017">
+    <marca>OKI</marca>
+    <modelo>Microline 320 Turbo</modelo>
+    <peso>4.8</peso>
+    <tamano>A4</tamano>
+    <cartucho>52102001</cartucho>
+    <enred/>
+  </impresora>
+  <impresora numSerie="i256" tipo="láser" compra="2018">
+    <marca>Xerox</marca>
+    <modelo>Phaser 6510/DNI</modelo>
+    <peso>23.4</peso>
+    <tamano>A4</tamano>
+    <cartucho>106R03480</cartucho>
+  </impresora>
+  <impresora numSerie="i252" tipo="matricial">
+    <marca>OKI</marca>
+    <modelo>Microline 420</modelo>
+    <peso>4.6</peso>
+    <tamano>A4</tamano>
+    <cartucho>C-789XP</cartucho>
+  </impresora>
+  <impresora numSerie="i253" tipo="láser" compra="2015">
+    <marca>Samsung</marca>
+    <modelo>Xpress M2020W</modelo>
+    <peso>3.97</peso>
+    <tamano>A4</tamano>
+    <cartucho>C-333BK</cartucho>
+  </impresora>
+  <impresora numSerie="i254" tipo="tinta" compra="2016">
+    <marca>HP</marca>
+    <modelo>Officejet Pro 6970</modelo>
+    <peso>8.05</peso>
+    <tamano>A4</tamano>
+    <cartucho>C-444BK</cartucho>
+    <cartucho>C-444C</cartucho>
+    <cartucho>C-444M</cartucho>
+    <cartucho>C-444Y</cartucho>
+  </impresora>
+  <impresora numSerie="i255" tipo="láser" compra="2017">
+    <marca>Canon</marca>
+    <modelo>LBP6030w</modelo>
+    <peso>5.0</peso>
+    <tamano>A4</tamano>
+    <cartucho>C-999BT</cartucho>
+  </impresora>
+  <impresora numSerie="i256" tipo="matricial">
+    <marca>Brother</marca>
+    <modelo>HL-2240</modelo>
+    <peso>6.8</peso>
+    <tamano>A4</tamano>
+    <cartucho>C-777JY</cartucho>
+  </impresora>
+  <impresora numSerie="i257" tipo="tinta" compra="2018">
+    <marca>Epson</marca>
+    <modelo>Expression Home XP-3100</modelo>
+    <peso>4.3</peso>
+    <tamano>A4</tamano>
+    <cartucho>C-222BK</cartucho>
+    <cartucho>C-222C</cartucho>
+    <cartucho>C-222M</cartucho>
+    <cartucho>C-222Y</cartucho>
+  </impresora>
+  <impresora numSerie="i258" tipo="láser" compra="2019">
+    <marca>HP</marca>
+    <modelo>LaserJet Pro M102w</modelo>
+    <peso>4.7</peso>
+    <tamano>A4</tamano>
+    <cartucho>C-111AAA</cartucho>
+  </impresora>
+  <impresora numSerie="i259" tipo="matricial">
+    <marca>OKI</marca>
+    <modelo>Microline 390 Turbo</modelo>
+    <peso>7.6</peso>
+    <tamano>A4</tamano>
+    <tamano>A3</tamano>
+    <cartucho>C-456ZZ</cartucho>
+  </impresora>
+  <impresora numSerie="i260" tipo="láser" compra="2020">
+    <marca>Samsung</marca>
+    <modelo>ML-2165W</modelo>
+    <peso>4.2</peso>
+    <tamano>A4</tamano>
+    <cartucho>C-888LL</cartucho>
+  </impresora>
+  <impresora numSerie="i261" tipo="tinta" compra="2021">
+    <marca>Canon</marca>
+    <modelo>PIXMA TS6320</modelo>
+    <peso>6.6</peso>
+    <tamano>A4</tamano>
+    <cartucho>C-555BK</cartucho>
+    <cartucho>C-555C</cartucho>
+    <cartucho>C-555M</cartucho>
+    <cartucho>C-555Y</cartucho>
+  </impresora>
+  <impresora numSerie="i262" tipo="láser" compra="2022">
+    <marca>Brother</marca>
+    <modelo>HL-L2350DW</modelo>
+    <peso>7.2</peso>
+    <tamano>A4</tamano>
+    <cartucho>C-999LL</cartucho>
+  </impresora>
+  <impresora numSerie="i263" tipo="matricial">
+    <marca>Epson</marca>
+    <modelo>FX-890II</modelo>
+    <peso>7.3</peso>
+    <tamano>A4</tamano>
+    <tamano>A3</tamano>
+    <cartucho>C-333YY</cartucho>
+  </impresora>
+  <impresora numSerie="i264" tipo="láser" compra="2023">
+    <marca>HP</marca>
+    <modelo>LaserJet Pro M15w</modelo>
+    <peso>3.8</peso>
+    <tamano>A4</tamano>
+    <cartucho>C-111BBB</cartucho>
+  </impresora>
+</impresoras>
